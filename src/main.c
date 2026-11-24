@@ -27,7 +27,9 @@
 #include <time.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#ifndef _MSC_VER //MSVC does not ship <strings.h>
 #include <strings.h>
+#endif
 
 //External libraries
 #include <SDL3/SDL.h>

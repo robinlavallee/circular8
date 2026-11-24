@@ -19,3 +19,7 @@ callgrind.out.*
 *.trace
 circular8
 *.gcda
+# CMake build directories
+build*/
+cmake-build-*/
+CMakeUserPresets.json
