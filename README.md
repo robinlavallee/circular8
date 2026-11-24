@@ -4,6 +4,15 @@ A lightweight player/simulator compatible with Simai (maidata.txt) files.
 > [!NOTE]
 > Circular8 does not currently have a chart editor. Please use another tool for that purpose instead.
 
+## Screenshots
+<p>
+  <img src="docs/screenshots/mainmenu.png" width="240" alt="Main menu">
+  <img src="docs/screenshots/profileselect.png" width="240" alt="Profile select">
+  <img src="docs/screenshots/songselect.png" width="240" alt="Song select">
+  <img src="docs/screenshots/gameplay.png" width="240" alt="Gameplay">
+  <img src="docs/screenshots/scorescreen.png" width="240" alt="Score screen">
+</p>
+
 ## Features:
 - **All** notation/opcodes listed at [Notations of simai](https://w.atwiki.jp/simai/pages/1003.html) plus a few non-standard extensions. Notable ones include:
     - Fake EACH (`3/0`)
